@@ -1,0 +1,4 @@
+# Archivos y directorios de Python
+*.pyc
+__pycache__/
+entorno-onlyflans/
